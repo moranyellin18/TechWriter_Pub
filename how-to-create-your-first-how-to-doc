@@ -1,9 +1,9 @@
 # How to create your first how-to document!
 ## Introduction
-In this document you will learn how to write your first how-to document, from A to Z.
+### In this document you will learn how to write your first how-to document, with detailed steps from A to Z.
 ## Prerequisites
-In order to complete your first writing test, you will need perform the following actions:
-1. Open an Account in [Github](https://github.com/join/) and create your first respository.
+### In order to complete your first writing task, please perform the following actions:
+1. Create an Account in [Github](https://github.com/join/) and create your first respository.
 2. Download and install [Git Client](https://git-scm.com/downloads).
 3. Download and install a text editor. I chose [Visual Studio Code](https://code.visualstudio.com/), however other good options are [Sublime Text](http://www.sublimetext.com/) or even [Notepad++](https://notepad-plus-plus.org/).
 ## Steps
@@ -17,14 +17,26 @@ In order to complete your first writing test, you will need perform the followin
 * Rename your file with a descriptive name.
 ### Start writing your document!
 Include as many formatting elements as possible - such as headings, subheadings, bullet points, numbered lists, code snippets, links, images, and other formatting elements using Markdown syntax.
+### Save the file, commit and push changes to your Git Repository
+* Save the file in Visual Studio Code
+* Before commiting and pushing the changes to Github, make sure to set your account's default identity:
+  ![Alt text](git%20config%20username1.PNG)
+* Execute 'git add .' command
+![Alt text](git%20add.PNG)
+* Commit and push the changes to GitHub:
+![Alt text](git%20commit%20and%20push.PNG)
 ## Troubleshooting
-If there are common issues or errors that users may encounter during the process, provide troubleshooting tips and solutions in this section.
+### Please find below a list of common issues you may encounter while pefroming the above steups, and their possible solutions:
+* "fatal: not a git repository (or any of the parent directories): .git" --> make sure to browse correctly into your Git repository location
+* "Author identity unknown" --> make sure to set your account's default identity, as described in the previous section.
 ## Conclusion
-Summarize the main points covered in the how-to document and provide any additional resources or next steps for users.
+Tech writing is fun! You should do it more often 😊
 ## Additional Resources
+### Please find below some useful links which assisted me in this writing task:
 [Markdown syntax Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 [Markdown syntax Cheat Sheet github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-## Appendix
-Include any additional information or supplementary content that may be helpful, such as FAQs, glossary, or related examples.
 
+[emojipedia](https://emojipedia.org/)
+## Appendix
+### This document is always being improved, and new information is constantly being added, stay tuned 👀
