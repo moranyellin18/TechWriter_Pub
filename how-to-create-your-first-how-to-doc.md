@@ -20,7 +20,9 @@
 ### Start writing your document!
 Include as many formatting elements as possible - such as headings, subheadings, bullet points, numbered lists, code snippets, links, images, and other formatting elements using Markdown syntax.
 ### Save the file, commit and push changes to your Git Repository
-* Save the file in Visual Studio Code
+* Save the file in Visual Studio Code with a 'Markdown' type:
+
+![Alt text](save%20as%20markdown.PNG)
 * Before commiting and pushing the changes to Github, make sure to set your account's default identity:
   
 ![Alt text](git%20config%20username1.PNG)
