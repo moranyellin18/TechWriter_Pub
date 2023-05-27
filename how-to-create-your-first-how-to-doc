@@ -1,0 +1,30 @@
+# How to create your first how-to document!
+## Introduction
+In this document you will learn how to write your first how-to document, from A to Z.
+## Prerequisites
+In order to complete your first writing test, you will need perform the following actions:
+1. Open an Account in [Github](https://github.com/join/) and create your first respository.
+2. Download and install [Git Client](https://git-scm.com/downloads).
+3. Download and install a text editor. I chose [Visual Studio Code](https://code.visualstudio.com/), however other good options are [Sublime Text](http://www.sublimetext.com/) or even [Notepad++](https://notepad-plus-plus.org/).
+## Steps
+### Configure your new Github Account with the following:
+* A new repository with a name which reflects its purpose - for instance "My Public Tech Docs"
+* On your local machine, navigate to the directory where you wish to store your Git project files, and run 'git clone' to clone your repository to your local machine.
+  ![Alt text](Git%20clone%20cmd1.JPG)
+### Customise your Visual Studio Code with the following:
+* Browse and Install a markdown extension from Extension Marketplace
+![Alt text](vcs%20md%20temp3.png)
+* Rename your file with a descriptive name.
+### Start writing your document!
+Include as many formatting elements as possible - such as headings, subheadings, bullet points, numbered lists, code snippets, links, images, and other formatting elements using Markdown syntax.
+## Troubleshooting
+If there are common issues or errors that users may encounter during the process, provide troubleshooting tips and solutions in this section.
+## Conclusion
+Summarize the main points covered in the how-to document and provide any additional resources or next steps for users.
+## Additional Resources
+[Markdown syntax Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+[Markdown syntax Cheat Sheet github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+## Appendix
+Include any additional information or supplementary content that may be helpful, such as FAQs, glossary, or related examples.
+
