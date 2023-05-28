@@ -1,2 +1,2 @@
 # TechWriter_Pub
-Public Repo for my Tech Writers Samples
+Public Repo for my Tech writing portfolio ✨
